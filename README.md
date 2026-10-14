@@ -107,8 +107,8 @@ Name resolution and encryption are both handled locally:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Fares-dev-Bit/home-lab-.git
+cd home-lab-
 ```
 
 **2. Start the stack**
